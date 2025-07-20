@@ -1,3 +1,5 @@
+import type English from "./en-US";
+
 export default {
 	metadata: {
 		name: "Thai",
